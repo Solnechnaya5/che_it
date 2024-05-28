@@ -502,6 +502,8 @@ body.fixed-page {
   cursor: pointer;
 }
 .faq-item svg{
+    width: 21.76px;
+height: 21.76px;
 margin-left: 15px;
 }
 .faq-item:hover svg #vertical {
