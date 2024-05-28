@@ -501,7 +501,7 @@ body.fixed-page {
   justify-content: space-between;
   cursor: pointer;
 }
-.faq-item svg{
+.faq-item__svg{
     width: 21.76px;
 height: 21.76px;
 margin-left: 15px;
