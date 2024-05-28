@@ -501,7 +501,9 @@ body.fixed-page {
   justify-content: space-between;
   cursor: pointer;
 }
-
+.faq-item svg{
+margin-left: 15px;
+}
 .faq-item:hover svg #vertical {
   transform: rotate(90deg);
   transform-origin: center;
