@@ -640,7 +640,7 @@ margin-left: 15px;
   }
 
   .top-section__content {
-    width: 320px;
+    width: 360px;
   }
 
   .main-title,
@@ -668,4 +668,16 @@ margin-left: 15px;
   .faq-items__container {
     width: 300px;
   }
+}
+@media (max-width: 360px) {
+    .top-section__content {
+        width: 320px;
+      }
+    
+}
+@media (max-width: 320px) {
+    .top-section__content {
+        width: 280px;
+      }
+    
 }
